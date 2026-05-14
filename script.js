@@ -1,4 +1,4 @@
-// Highlight active nav link on scroll
+
 const sections = document.querySelectorAll('section[id], header[id]');
 const navLinks = document.querySelectorAll('nav ul a');
 
